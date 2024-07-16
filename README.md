@@ -1,8 +1,7 @@
 # [2024] 구글 머신러닝 부트캠프
-## 1. coursera
+## 🍒 coursera
 [[Coursera] Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) 정리
 
-[cf. 선형대수 기초](https://github.com/dpwls02142/google-ml-bootcamp/blob/main/coursera/%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EB%B0%8F%20%EB%94%A5%EB%9F%AC%EB%8B%9D/2%EC%A3%BC%EC%B0%A8.md#-%EB%B0%A9%EC%A0%95%EC%8B%9D)
 |Course|Syllabus|
 |---|---|
 |1. Neural Networks and Deep Learning|<ul> <li>[Introduction to deep learning](https://github.com/dpwls02142/google-ml-bootcamp/blob/main/coursera/%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EB%B0%8F%20%EB%94%A5%EB%9F%AC%EB%8B%9D/1%EC%A3%BC%EC%B0%A8.md)</li> <li>[Neural Networks Basics](https://github.com/dpwls02142/google-ml-bootcamp/blob/main/coursera/%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EB%B0%8F%20%EB%94%A5%EB%9F%AC%EB%8B%9D/2%EC%A3%BC%EC%B0%A8.md)</li> <li>[Shallow neural networks](https://github.com/dpwls02142/google-ml-bootcamp/blob/main/coursera/%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EB%B0%8F%20%EB%94%A5%EB%9F%AC%EB%8B%9D/3%EC%A3%BC%EC%B0%A8.md)</li> <li>Deep neural networks</li> </ul>|
@@ -11,4 +10,8 @@
 |4. Convolutional Neural Networks|<ul><li>Foundations of Convolutional Neural Networks</li> <li>Deep Convolutional models</li><li>Object Detection</li><li>Special applications: Face recognition & Neural style transfer</li></ul>|
 |5. Sequence Models|<ul><li>Recurrent Neural Networks</li><li>Natural Language Processing & Word Embeddings</li><li>Sequence models & Attention mechanism</li><li>Transformer Network</li></ul>|
 
-## 2. kaggle
+## 🍒 kaggle
+- Binary Classification of Insurance Cross Selling Playground Series - Season 4, Episode 7
+
+## 🍒 study (발표 자료)
+- 활성화 함수 (240721)
