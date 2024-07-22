@@ -12,6 +12,3 @@
 
 ## 🍒 kaggle
 - Binary Classification of Insurance Cross Selling Playground Series - Season 4, Episode 7
-
-## 🍒 study (발표 자료)
-- [활성화 함수 (240721)](https://github.com/dpwls02142/google-ml-bootcamp/blob/main/study/%ED%99%9C%EC%84%B1%ED%99%94%20%ED%95%A8%EC%88%98_240721.pdf)
