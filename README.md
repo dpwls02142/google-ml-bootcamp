@@ -1,4 +1,13 @@
 # [2024] 구글 머신러닝 부트캠프
+
+## 🍒 Gemma Sprint
+This finetuning model recommends games based on the user's emotions. The base model is Google's Gemma-2b-it, and the dataset was taken from [this link](https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam).
+
+- [ipynb link](https://github.com/dpwls02142/google-ml-bootcamp/blob/main/gemma-sprint/emotion-based-game-recommendation-system-on-steam.ipynb)
+
+- [huggingface model link](https://huggingface.co/dpwls003/Gemma-2-2b-it-game-recommendation)
+
+
 ## 🍒 coursera
 [[Coursera] Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) 정리
 
@@ -11,4 +20,5 @@
 |5. Sequence Models|<ul><li>Recurrent Neural Networks</li><li>Natural Language Processing & Word Embeddings</li><li>Sequence models & Attention mechanism</li><li>Transformer Network</li></ul>|
 
 ## 🍒 kaggle
-- Binary Classification of Insurance Cross Selling Playground Series - Season 4, Episode 7
+- [Binary Classification of Insurance Cross Selling Playground Series - Season 4, Episode 7](https://github.com/dpwls02142/google-ml-bootcamp/blob/main/kaggle/%5B0.83014%5D-lightGBM.ipynb)
+    - rank: 151/2234 (top 7%)
